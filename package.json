@@ -1,0 +1,36 @@
+{
+  "name": "codember",
+  "version": "1.0.0",
+  "description": "Resolucion de ejercicios Codember.dev con Javascript",
+  "main": "index.js",
+  "scripts": {
+    "lint": "semistandard",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgrimoldi/codember.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Codember",
+    "Midudev",
+    "2023",
+    "Resoluciones"
+  ],
+  "author": "Joaquin Grimoldi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgrimoldi/codember/issues"
+  },
+  "homepage": "https://github.com/jgrimoldi/codember#readme",
+  "devDependencies": {
+    "semistandard": "17.0.0"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/semistandard/eslintrc.json",
+    "env": {
+      "jest": true
+    }
+  }
+}

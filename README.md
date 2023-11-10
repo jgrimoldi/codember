@@ -1,6 +1,6 @@
 # Codember
 
-[![Codember](https://codember.dev/images/codember.webp)](https://codember.dev/)
+[![Codember](./images/codember.webp)](https://codember.dev/)
 
 ---
 
